@@ -594,7 +594,7 @@ a.btn.disabled,fieldset[disabled] a.btn{pointer-events:none}
 .btn-default:active,.btn-default.active,.open > .dropdown-toggle.btn-default{background-image:none}
 .btn-default.disabled:hover,.btn-default[disabled]:hover,fieldset[disabled] .btn-default:hover,.btn-default.disabled:focus,.btn-default[disabled]:focus,fieldset[disabled] .btn-default:focus,.btn-default.disabled.focus,.btn-default[disabled].focus,fieldset[disabled] .btn-default.focus{background-color:#e7e7e7;border-color:#cccccc}
 .btn-default .badge{color:#e7e7e7;background-color:#333333}
-.btn-primary{color:#ffffff;background-color:#008cba;border-color:#0079a1}
+.btn-primary{color:#336699;background-color:#ffffff;border-color:#336699}
 .btn-primary:focus,.btn-primary.focus{color:#ffffff;background-color:#006687;border-color:#001921}
 .btn-primary:hover{color:#ffffff;background-color:#006687;border-color:#004b63}
 .btn-primary:active,.btn-primary.active,.open > .dropdown-toggle.btn-primary{color:#ffffff;background-color:#006687;border-color:#004b63}
